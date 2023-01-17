@@ -22,4 +22,6 @@ $ cd ../server && pnpm install && pnpm run start:dev
 
 ## 기술스택
 
-- WIP 아직 고민 중입니다.
+- 백엔드: Nest.js, (다른 기술스택 뭐 쓸지 고민 중)
+- 프론트엔드: Next.js (다른 기술스택 뭐 쓸지 고민 중)
+- [백로그 관리](https://incredible-law-a74.notion.site/aea353c98d2b4929926a101339ad8146?v=a4572d0cf6dc469eaa4cdbdb8a480af4)
